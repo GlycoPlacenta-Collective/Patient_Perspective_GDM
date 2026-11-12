@@ -1,0 +1,30 @@
+#Subfolder
+results/
+archives/
+arctic_shift/
+data/
+batch_work/
+
+# Data files
+*.csv
+*.xlsx
+*.jsonl
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.env
+venv/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
