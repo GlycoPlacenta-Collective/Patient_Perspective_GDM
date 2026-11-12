@@ -102,5 +102,5 @@ Only publicly available Reddit content was used. No Reddit data are redistribute
  
 MIT License
 
-Copyright (c) [2026] [Molly Campbell]
+Copyright (c) 2026 Molly Campbell
  
